@@ -5,7 +5,7 @@
 
 - 📫 Contacta conmigo **sergiolpz.2002@gmail.com**
 
-<h3 align="left">Contacta conmigo:</h3>
+<h3 align="left">Red de contacto:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-l%C3%B3pez-94a967243/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio López's LinkedIn" height="30" width="40" />
